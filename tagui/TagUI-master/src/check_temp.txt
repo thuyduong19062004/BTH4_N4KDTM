@@ -1,0 +1,28 @@
+
+START - automation started - Thu Dec 25 2025 21:08:29 GMT+0700 (SE Asia Standard Time)
+https://drive.google.com/drive/folders/1e0BH0n8b2IexLYnMqQ6L-M42DdFTi-yz - Thư mục - Google Drive
+
+wait 8
+click //input[@aria-label='Tìm trong Drive']
+wait 1
+type //input[@aria-label='Tìm trong Drive'] as 2251162213[enter]
+wait 8
+wait 2
+type //input[@aria-label='Tìm trong Drive'] as [clear]
+wait 2
+click //input[@aria-label='Tìm trong Drive']
+wait 1
+type //input[@aria-label='Tìm trong Drive'] as 2251162038[enter]
+wait 8
+wait 2
+type //input[@aria-label='Tìm trong Drive'] as [clear]
+wait 2
+click //input[@aria-label='Tìm trong Drive']
+wait 1
+type //input[@aria-label='Tìm trong Drive'] as 2251162154[enter]
+wait 8
+wait 2
+
+https://drive.google.com/drive/folders/1e0BH0n8b2IexLYnMqQ6L-M42DdFTi-yz - BTTH_Test - Google Drive
+FINISH - automation finished - 60.1s
+

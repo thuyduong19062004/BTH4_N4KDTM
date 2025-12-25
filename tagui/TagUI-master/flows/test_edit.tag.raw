@@ -1,0 +1,11 @@
+https://docs.google.com/spreadsheets/d/1zmIibdE9M2L90FQWX9gsG-DO0cVKtaYndqWMouWrEzE/edit
+wait 6
+// chọn ô A1
+keyboard [ctrl] [home]
+// bật chế độ nhập trong ô
+keyboard F2
+// gõ nội dung
+keyboard Kiem_tra_TagUI
+// xác nhận
+keyboard Enter
+echo DONE

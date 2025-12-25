@@ -1,0 +1,17 @@
+// MỞ GOOGLE SHEET
+https://docs.google.com/spreadsheets/d/1zmIibdE9M2L90FQWX9gsG-DO0cVKtaYndqWMouWrEzE/edit
+wait 10   // chờ load
+// TỪ A1 → F1
+keyboard [right][right][right][right][right]   // di chuyển từ A→F
+// NHẬP DỮ LIỆU
+keyboard "Đang kiểm tra..."
+keyboard [enter]
+wait 0.3
+// LẶP 10 DÒNG TIẾP THEO
+for n from 1 to 10
+{
+keyboard "Đang kiểm tra..."
+keyboard [enter]
+wait 0.3
+}
+echo "✔ DONE - Đã ghi dữ liệu vào cột F!"

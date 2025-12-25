@@ -1,0 +1,6 @@
+
+START - automation started - Thu Dec 25 2025 04:15:01 GMT+0700 (SE Asia Standard Time)
+https://docs.google.com/spreadsheets/d/1zmIibdE9M2L90FQWX9gsG-DO0cVKtaYndqWMouWrEzE/edit - HTKDTM_QuanLyHocVien - Google Trang tính
+
+wait 10   // chờ load
+keyboard [right][right][right][right][right]   // di chuyển từ A→F
